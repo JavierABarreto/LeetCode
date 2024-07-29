@@ -1,6 +1,4 @@
 let nums = [1,3,4,1,2,3,1]
-// let nums = [1,2,3,4]
-// let nums = [2,1,1]
 
 const findMatrix = (nums) => {
   let result = []
